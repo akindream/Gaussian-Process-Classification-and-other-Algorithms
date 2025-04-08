@@ -1,4 +1,4 @@
-# Garment Employee Productivity Prediction using Machine Learning
+# Garment Employee Productivity Prediction using Machine Learning through Gaussian-Process-Classification
 
 ## Abstract
 
